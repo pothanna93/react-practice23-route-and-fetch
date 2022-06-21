@@ -1,0 +1,11 @@
+.blog-list-container {
+  margin: 12px;
+}
+@media (min-width: 768px) {
+  .blog-list-container {
+    margin: 50px;
+  }
+}
+.blogs-list {
+  padding-left: 0px;
+}
